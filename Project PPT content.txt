@@ -1,0 +1,109 @@
+
+Project 1 : government services search engine
+
+
+
+Abstract: 
+
+-> Online services is convenient in today's digital era, searching a right website for a service is a huge task and risk of landing into a fraudlent website is high. When government services are considered there are various agent based sites which are not much reliable, these agent based websites charges more for their services and time which they take to complete the process is sometimes more than the official government websites.
+
+-> Aged People or first timers tend to visit some agent website instead of offical govenment website because the difference is not noticable.
+
+-> This project is based on a govenment services search engine which shows only the offical government website links. Which saves time in searching and also work is done in cheap and safe manner.
+
+
+
+
+Specification:
+
+-> Crawling : A web crawler is a software program that follows all the links on a page, leading to new pages, and continues that process until it has no more new links or pages to crawl. We will keep a check to crawl only on official websites.
+
+-> Parsing : After crawler reach to a page, it pulls the text portion for the indexing and the links for further crawling, it allows crawling and indexing to work together smoothly. 
+
+-> Indexing : Indexing is storing and organizing the information found on the pages crawled by the crawler to speedup the search process and rank websites.
+
+
+
+
+Expected Output: 
+-> Generally searching for government services will become much easier once people search through the search engine.
+
+-> Cost will be based on the charges applied by the government itself as the websites which the user visits will be operated by government itself.
+
+-> Data is directly sent to the intended organization i.e. government.
+
+
+
+...................................................................................................................
+
+Project 2 : Youtube video transcript search engine
+
+
+
+Abstract: 
+
+-> In todays era content creation is full time job for many creators, but as a creator its very dificult to manage old archive videos and then access it quickly when needed.
+
+->As channels grow larger and content keeps increasing it almost becomes immpossible to keep track of all of the content produced till the date.
+
+->This project helps to access archive videos quickly, preventing the need of going through archive videos manually which is a tiring and time consuming process.
+
+
+
+Specification:
+
+->Crawling : A coustum web crewller which follow all the video links on a specified youtube channel and keep doing that untill it has no more videos to crewl.
+
+->Parsing : After crawler reach to a video, it pulls the transcribed text from web page and stores it with the time stamps for indexing.
+
+->Indexing : Indexing is storing and organizing the data from the transcription of video crawled by the crawler to speedup the search process and provide more relevent results.
+
+
+
+Expected Output: 
+
+->Searching for a specific clip from vast archive videos becomes really quick and easy.
+
+->You can get insiteful data about videos like how frequently certain words/phrases are used, etc
+
+.............................................................................................................................................................
+Project 3: Graph Algorithm visualizer
+
+Abstract:
+
+-> Programming is fun, but when some advance datastructure or algorithm comes into picture then the need of basic understanding and ability to visualize certain steps in the algorithm becomes a necessity. Visualization in mind comes when a similar visualization is already seen and understood.
+
+-> graph algorithm visualizer helps in understanding the working of each and every step. Once the visualization is clear then the mind runs a similar simulation in other problems related to same algorithm.
+
+-> specifically this project focus on the grid based structure and applies various algorithm on this grid.
+
+-> Due to visualization of the algorithm interest to solve similar problems related to the algorithm is generated. Programming and learning becomes fun.
+
+
+
+Specification:
+
+-> Grid based structure is present and the following algorithms are implemented:
+
+1) Breadth First Search
+2) Depth First Search
+3) Multi Source BFS
+4) A* algorithm
+and some other graph algorithm
+
+-> some additional features such as obstacle cell/ Path blockage can be shown 
+
+-> some cell can be used as enemy node or monster node and we have to find whether safe path exists or not.
+
+
+
+
+Expected Outcome:
+
+-> A brief idea is clear as to how the algorithm functions.
+
+-> Patterns can be seen in the algorithm to distinguish one algorithm from another.
+
+-> Information is retained for longer time as the concept is understood visually and humans tend to grasp knowledge more visually.
+
+...................................................................................................................
